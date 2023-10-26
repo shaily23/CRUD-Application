@@ -14,13 +14,17 @@ http://localhost/crud/Index.php
 
 
 LOGIN PAGE:
+
 ![Screenshot Capture - 2023-10-27 - 00-04-15](https://github.com/shaily23/CRUD-Application/assets/68847710/19f70020-e8dc-4f9c-b97c-bd366704ba76)
 
 CUSTOMER LIST PAGE:
+
 ![Screenshot Capture - 2023-10-27 - 00-02-59](https://github.com/shaily23/CRUD-Application/assets/68847710/6589419d-de61-45ab-bd35-6f0859854e4b)
 
-NEW CUSTOMER REGISTRATION FORM
+NEW CUSTOMER REGISTRATION FORM:
+
 ![Screenshot Capture - 2023-10-27 - 00-03-47](https://github.com/shaily23/CRUD-Application/assets/68847710/bfe43e8e-9232-49c2-9a4b-0f47963a8ff8)
 
-CUSTOMER DETAILS UPDATION FORM
+CUSTOMER DETAILS UPDATION FORM:
+
 ![Screenshot Capture - 2023-10-27 - 00-04-43](https://github.com/shaily23/CRUD-Application/assets/68847710/d52465e4-d093-4b27-bc9b-0b034e1561a1)
