@@ -12,8 +12,9 @@ http://localhost/crud/Index.php
 
 
 
-![Screenshot Capture - 2023-10-27 - 00-04-43](https://github.com/shaily23/CRUD-Application/assets/68847710/20b8497b-fbaf-4231-8437-6e6d38e3f8d8)
-![Screenshot Capture - 2023-10-27 - 00-04-15](https://github.com/shaily23/CRUD-Application/assets/68847710/116bb807-5bb3-4962-9b23-fb56ff2fe04b)
-![Screenshot Capture - 2023-10-27 - 00-03-47](https://github.com/shaily23/CRUD-Application/assets/68847710/9dde190c-eaf5-48c8-9edf-082d87068ee5)
-![Screenshot Capture - 2023-10-27 - 00-02-59](https://github.com/shaily23/CRUD-Application/assets/68847710/2ce6ee92-133f-4a6a-b4c3-7246919f66df)
 
+
+![Screenshot Capture - 2023-10-27 - 00-04-15](https://github.com/shaily23/CRUD-Application/assets/68847710/19f70020-e8dc-4f9c-b97c-bd366704ba76)
+![Screenshot Capture - 2023-10-27 - 00-02-59](https://github.com/shaily23/CRUD-Application/assets/68847710/6589419d-de61-45ab-bd35-6f0859854e4b)
+![Screenshot Capture - 2023-10-27 - 00-03-47](https://github.com/shaily23/CRUD-Application/assets/68847710/bfe43e8e-9232-49c2-9a4b-0f47963a8ff8)
+![Screenshot Capture - 2023-10-27 - 00-04-43](https://github.com/shaily23/CRUD-Application/assets/68847710/d52465e4-d093-4b27-bc9b-0b034e1561a1)
